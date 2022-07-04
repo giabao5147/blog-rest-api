@@ -9,13 +9,17 @@ Tạo RESTful API cho ứng dụng blog đáp ứng các yêu cầu sau:
 - Các request phải được bảo mật bằng JSON Web Token
 
 ## 2. Phân tích hệ thống
-### 2.1 Database
+### 2.1 Công nghệ
+- Spring boot, RESTful Web Service
+- MySQL server, Sring data JPA
+- Spring security, JWT
+### 2.2 Database
 <br/>
 <p align="center">
     <img src="doc/database.png" width="700"><br/>
 </p>
 
-### 2.1 RESTful routes
+### 2.3 RESTful routes
 
 - Post
 
